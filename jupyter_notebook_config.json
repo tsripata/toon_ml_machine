@@ -1,0 +1,10 @@
+{
+  "NotebookApp": {
+    "nbserver_extensions": {
+      "jupyter_tensorboard": true
+    },
+    "password": "sha1:21da7f96e98b:b2240679561224ca60e502fd70abdcd83f103258",
+    "certfile": "/root/.jupyter/mycert.pem",
+    "keyfile": "/root/.jupyter/mykey.key"
+  }
+}
